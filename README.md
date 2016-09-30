@@ -28,5 +28,5 @@ Ethereum Rock Paper Scissors Dapp
 - in case of refund there is no fee  
 
 # verify the code
-verified code with comments (and Player Interface in it):
+verified code with comments (and Player Interface in it):  
 https://etherscan.io/address/0x1d77340D3819007BbfD7fdD37C22BD3b5c311350#code
