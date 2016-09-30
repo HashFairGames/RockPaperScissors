@@ -4,8 +4,8 @@ Ethereum Rock Paper Scissors Dapp
 # How to play  
  To play all you need is to use JSON Interface.  
 - Generate a pair of values: "Hash" & "SecretRand" in public function CreateHash and save it somewhere. Remember to provide good random seed!  
-- 2) Send the Hash with 0.1 ETH to Play function  
-- 3) Enter your hash to public "Is payout ready_info function", from now on you should get hints what you should do in "Info" field.  
+- Send the Hash with 0.1 ETH to Play function  
+- Enter your hash to public "Is payout ready_info function", from now on you should get hints what you should do in "Info" field.  
 - Wait for Other Player / or just for new block mined  
 - Announce your SecretRand in announce function.  
 - Wait for other player announce / new block  
